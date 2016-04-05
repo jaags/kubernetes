@@ -1,5 +1,7 @@
 # Kubernetes
 
+[![Join the chat at https://gitter.im/jaags/kubernetes](https://badges.gitter.im/jaags/kubernetes.svg)](https://gitter.im/jaags/kubernetes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![GoDoc Widget]][GoDoc] [![Travis Widget]][Travis] [![Coverage Status Widget]][Coverage Status]
 
 [GoDoc]: https://godoc.org/k8s.io/kubernetes
